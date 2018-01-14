@@ -1,4 +1,4 @@
-# Books:
+# Books
 ---
 
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
@@ -9,3 +9,4 @@
 * [Introduction to Linear Algebra - Gilbert Strang](http://amzn.eu/0N5bNFD)
 * [Data Science from Scratch - Joel Grus](https://github.com/joelgrus/data-science-from-scratch)
 * [Neural Networks and Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
+* [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/)
