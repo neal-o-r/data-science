@@ -3,6 +3,7 @@
 
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 * [Pattern Recognition and Machine Learning - Chris Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+* [Probability Theory - E.T. Jaynes](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
 * [Python Data Science Handbook - Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Python for Data Science - Wes McKinney](https://github.com/wesm/pydata-book)
 * [Bayesian Data Analysis - Andrew Gelman](http://www.stat.columbia.edu/~gelman/book/)
