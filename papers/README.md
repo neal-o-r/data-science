@@ -4,6 +4,7 @@
 * [Fifty Years Of Shannon Theory](shannon.pdf)
 * [Fifty Years Of Data Science](50yearsofdatascience.pdf)
 * [Random Forests](randomforest2001.pdf)
+* [A Statistical View Of Boosting](euclid.aos.1016218223.pdf)
 * [Google File System](gfs.pdf)
 * [Probabilistic machine learning and artificial intelligence](Ghahramani2015Nature.pdf)
 * [Flexible Smoothing With B-Splines and Penalties](gam.pdf)
